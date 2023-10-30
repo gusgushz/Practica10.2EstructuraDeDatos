@@ -1,0 +1,10 @@
+C:\Users\gusta\source\repos\Practica10.2\Practica10.2\bin\Debug\Practica10.2.exe.config
+C:\Users\gusta\source\repos\Practica10.2\Practica10.2\bin\Debug\Practica10.2.exe
+C:\Users\gusta\source\repos\Practica10.2\Practica10.2\bin\Debug\Practica10.2.pdb
+C:\Users\gusta\source\repos\Practica10.2\Practica10.2\obj\Debug\Practica10.2.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\Practica10.2\Practica10.2\obj\Debug\Practica10._2.Form1.resources
+C:\Users\gusta\source\repos\Practica10.2\Practica10.2\obj\Debug\Practica10._2.Properties.Resources.resources
+C:\Users\gusta\source\repos\Practica10.2\Practica10.2\obj\Debug\Practica10.2.csproj.GenerateResource.cache
+C:\Users\gusta\source\repos\Practica10.2\Practica10.2\obj\Debug\Practica10.2.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\Practica10.2\Practica10.2\obj\Debug\Practica10.2.exe
+C:\Users\gusta\source\repos\Practica10.2\Practica10.2\obj\Debug\Practica10.2.pdb
